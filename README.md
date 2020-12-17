@@ -4,9 +4,9 @@
   ## Description
   A React app that uses Open Weather API to check current weather conditions in any city.
 
-  ## Deployed Site
+  <!-- ## Deployed Site
   [Daily Weather](https://evening-sierra-18713.herokuapp.com/)
-  ![walkthrough](./public/images/walkthrough.png)
+  ![walkthrough](./public/images/walkthrough.png) -->
 
 
   ## Table of Contents
