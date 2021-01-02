@@ -1,4 +1,4 @@
-# Team Contacts
+# Daily Weather
   ![GitHub license](https://img.shields.io/badge/license-unlicense-blue.svg)
 
   ## Description
